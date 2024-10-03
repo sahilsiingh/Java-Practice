@@ -18,7 +18,9 @@ public class arrayPrac{
             if (marks[i] == o){
                 idx = i;
                 System.out.println("No. found " + o + " at index " + idx);
+                break;
             } 
         }
+        System.out.println(idx);
     }
 }
