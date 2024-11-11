@@ -5,7 +5,7 @@ public class Lar_No
     {
         int x , y ,z ;
         Scanner s = new Scanner (System.in);
-        System.out.print("Enter the 1st no.");
+        System.out.print("Enter the 1st no."); 
         x = s.nextInt();
         System.out.print("Enter the 2nd no.");
         y = s.nextInt();
