@@ -8,7 +8,7 @@ public class Lar_No
         System.out.print("Enter the 1st no."); 
         x = s.nextInt(); 
         System.out.print("Enter the 2nd no."); 
-        y = s.nextInt();
+        y = s.nextInt(); 
         System.out.print("Enter the 3rd no."); 
         z = s.nextInt();
         if (x>y && x>z)
