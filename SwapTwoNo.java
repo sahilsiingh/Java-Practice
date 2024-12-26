@@ -8,7 +8,7 @@ public class SwapTwoNo{
         System.out.print("Enter second number:");
         y = s.nextInt();
 
-        temp = x;
+        temp = x; 
         x= y;
         y = temp;
 
