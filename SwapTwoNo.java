@@ -9,7 +9,7 @@ public class SwapTwoNo{
         y = s.nextInt();
 
         temp = x; 
-        x= y;
+        x= y; 
         y = temp;
 
         System.out.println("After swapping");
