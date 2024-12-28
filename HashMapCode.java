@@ -1,6 +1,6 @@
 import java.util.*;
 public class HashMapCode {
-static class HashMap<K,V> { //generics
+static class HashMap<K,V> { //generics 
 private class Node {
 K key;
 V value;
