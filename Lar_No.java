@@ -11,7 +11,7 @@ public class Lar_No
         y = s.nextInt(); 
         System.out.print("Enter the 3rd no."); 
         z = s.nextInt();
-        if (x>y && x>z) 
+        if (x>y && x>z)  
         {
             System.out.println("Largest no. is:" +x);
         }
