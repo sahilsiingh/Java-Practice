@@ -1,7 +1,7 @@
 
 public class allDivisors {
 
-    public static void main(String[] args) { 
+    public static void main(String[] args) {  
         int div = 0;    
         int n = 64;  
         for (int i = 1; i <= n; i++) { 
